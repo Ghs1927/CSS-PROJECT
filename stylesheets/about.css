@@ -245,7 +245,7 @@ header {
     height: 80vh;
     min-height: 350px;
     width: 100%;
-    background-image: url('images/bgmenu-title-page-01.webp');
+    background-image: url('../images/bgmenu-title-page-01.webp');
     background-size: cover;
     background-position: center;
     display: flex;
@@ -311,7 +311,7 @@ header {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url('images/ourvideo-menu-01.webp');
+    background-image: url('../images/ourvideo-menu-01.webp');
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
@@ -399,7 +399,7 @@ header {
 .background-divider {
     width: 100%;
     height: 380px;
-    background-image: url('images/bg-cover-video-02.webp');
+    background-image: url('../images/bg-cover-video-02.webp');
     background-attachment: fixed;
     background-position: center;
     background-size: cover;
