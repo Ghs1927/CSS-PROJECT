@@ -1161,7 +1161,6 @@ header {
         flex: 1;
     }
 
-    .intro-grid,
     .blog-grid,
     .footer-container {
         grid-template-columns: repeat(2, 1fr);
