@@ -474,7 +474,7 @@ header {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url('/images/bg-intro-01.webp');
+    background-image: url('images/bg-intro-01.webp');
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -835,7 +835,7 @@ header {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url('/images/bg-cover-video-02.webp');
+    background-image: url('images/bg-cover-video-02.webp');
     background-attachment: fixed;
     background-position: center;
     background-size: cover;

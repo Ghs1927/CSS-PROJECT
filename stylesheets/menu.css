@@ -246,7 +246,7 @@ header {
     height: 80vh;
     min-height: 350px;
     width: 100%;
-    background-image: url('/images/bgmenu-title-page-01.webp');
+    background-image: url('images/bgmenu-title-page-01.webp');
     background-size: cover;
     background-position: center;
     display: flex;
@@ -348,11 +348,11 @@ header {
 }
 
 .lunch-banner {
-    background-image: url('/images/header-lunch-01.jpg');
+    background-image: url('images/header-lunch-01.jpg');
 }
 
 .dinner-banner {
-    background-image: url('/images/header-dinner-02.webp');
+    background-image: url('images/header-dinner-02.webp');
 }
 
 .background-title {

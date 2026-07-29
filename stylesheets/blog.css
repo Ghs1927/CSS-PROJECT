@@ -246,7 +246,7 @@ header {
     height: 90vh;
     min-height: 350px;
     width: 100%;
-    background-image: url('/images/bg-gallery-page-03.jpg');
+    background-image: url('images/bg-gallery-page-03.jpg');
     background-size: cover;
     background-position: center;
     display: flex;
